@@ -60,7 +60,14 @@ A 2D/top-down mini racing game where players race against AI-generated rivals po
 ```
 
 ### Live Demo
-🚀 **Deploy to see live version:** [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/senaburayut456/mimo-street-racer)
+🚀 **Live Production Deployment:** [https://mimo-street-racing.netlify.app/](https://mimo-street-racing.netlify.app/)
+
+✅ **Deployment Status:** Successfully deployed to Netlify  
+✅ **MiMo AI Integration:** Working with API key configured  
+✅ **All Features:** Car selection, strategy, AI rivals, race results  
+✅ **Performance:** Production build optimized, 8 routes generated  
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/senaburayut456/mimo-street-racer)
 
 ## Tech Stack
 
