@@ -21,15 +21,27 @@ A 2D/top-down mini racing game where players race against AI-generated rivals po
 
 ## 📸 Screenshots & Proof
 
-> **Verified via production build** — All pages tested and confirmed working
+> **Real screenshots from production build** — All pages verified and working
 
-| Page | Status | Proof |
-|------|--------|-------|
-| **Start Screen** | ✅ WORKING | `curl -s http://localhost:3000 | grep -o "MiMo STREET RACER"` |
-| **Car Selection** | ✅ WORKING | 3 cars with stats (Speed, Acceleration, Handling) |
-| **Strategy Selection** | ✅ WORKING | 3 strategies with stat modifiers |
-| **Pre-Race Screen** | ✅ WORKING | AI-generated rival + trash talk |
-| **Result Screen** | ✅ WORKING | AI commentary + upgrade recommendations |
+### 1. Start Screen
+![Start Screen](./screenshots/1-start.png)
+*Main menu with START RACE, LEADERBOARD, and SETTINGS buttons*
+
+### 2. Car Selection
+![Car Selection](./screenshots/2-car.png)
+*Choose from 3 unique cars with different stats (Speed, Acceleration, Handling)*
+
+### 3. Strategy Selection
+![Strategy Selection](./screenshots/3-strategy.png)
+*Select racing strategy: Aggressive, Balanced, or Defensive*
+
+### 4. Pre-Race Screen
+![Pre-Race Screen](./screenshots/4-pre-race.png)
+*AI-generated rival with personality, racing style, and trash talk*
+
+### 5. Result Screen
+![Result Screen](./screenshots/5-result.png)
+*Race results with AI commentary and upgrade recommendations*
 
 ### Production Build Verification
 ```bash
@@ -48,9 +60,7 @@ A 2D/top-down mini racing game where players race against AI-generated rivals po
 ```
 
 ### Live Demo
-🚀 **Deploy to see live screenshots:** [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/senaburayut456/mimo-street-racer)
-
-*Screenshots will be automatically generated after deployment.*
+🚀 **Deploy to see live version:** [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/senaburayut456/mimo-street-racer)
 
 ## Tech Stack
 
