@@ -1,6 +1,14 @@
 # MiMo Street Racer
 
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-blue?style=for-the-badge&logo=tailwindcss)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
+
 A 2D/top-down mini racing game where players race against AI-generated rivals powered by MiMo AI.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/senaburayut456/mimo-street-racer)
 
 ## Features
 
@@ -150,4 +158,18 @@ MIT
 
 ## Author
 
-alifa2 - MiMo Street Racer
+alifa2 - MiMo Street Racer MVP
+
+---
+
+## Quick Links
+
+- 🎮 [Play Live](#) (Coming soon on Netlify)
+- 📖 [Documentation](./PRD.md)
+- 🎨 [Design System](./DESIGN.md)
+- 🐛 [Report Issues](https://github.com/senaburayut456/mimo-street-racer/issues)
+- 💬 [Discussions](https://github.com/senaburayut456/mimo-street-racer/discussions)
+
+## Support
+
+Built with ❤️ using MiMo AI integration. For questions or feedback, open an issue or discussion on GitHub.
